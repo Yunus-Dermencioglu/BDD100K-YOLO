@@ -1,0 +1,21 @@
+train: C:/Users/Dev1/Desktop/KY/100k-Yolo/images/train
+val: C:/Users/Dev1/Desktop/KY/100k-Yolo/images/val
+
+nc: 13
+names: [
+    "traffic light",
+    "traffic sign",
+    "car",
+    "bus",
+    "person",
+    "bike",
+    "motor",
+    "rider",
+    "train",
+    "truck",
+    "drivable area",
+    "lane",
+    "line"
+]
+
+
