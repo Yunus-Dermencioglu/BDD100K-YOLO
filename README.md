@@ -7,6 +7,8 @@ This project is an image processing project that classifies objects in traffic w
 
 -The controller.ipynb file classifies the image path you provide using the yolo model.
 
+-Our Yolo model was trained for 10 epochs, but we didn't observe any overfitting in the models we experimented with later, which were around 50 epochs.
+
 BDD100K dataset :"https://www.kaggle.com/datasets/awsaf49/bdd100k-dataset?select=bdd100k"
 
 Don't forget to change the local paths in the file.
